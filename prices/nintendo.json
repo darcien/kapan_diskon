@@ -1,1 +1,21 @@
-{}
+{
+  "lastCheckedAt": "2022-12-14T16:04:09.733Z",
+  "productPrices": [
+    {
+      "name": "Xenoblade Chronicles™ 2",
+      "nsuid": "70010000000707",
+      "sku": "7100000707",
+      "price": 59.99,
+      "priceCurrency": "USD",
+      "retrievedAt": "2022-12-14T16:04:09.733Z"
+    },
+    {
+      "name": "Xenoblade Chronicles™ 2 and Xenoblade Chronicles™ 2 Expansion Pass Bundle",
+      "nsuid": "70070000000661",
+      "sku": "7700000661",
+      "price": 89.98,
+      "priceCurrency": "USD",
+      "retrievedAt": "2022-12-14T16:04:09.733Z"
+    }
+  ]
+}
