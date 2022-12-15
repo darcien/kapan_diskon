@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Everyday at 00:00
-    - cron: "0 0 * * *"
+    # Everyday at 00:07
+    - cron: "7 0 * * *"
 
 jobs:
   scheduled:
@@ -18,7 +18,7 @@ jobs:
           deno-version: v1.x
       - name: Fetch latest data
         run: |-
-          deno run --allow-all --unstable nintendo_static.ts
+          deno run --allow-all --unstable nintendo.ts
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"

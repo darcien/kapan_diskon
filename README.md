@@ -4,7 +4,7 @@ Tracking prices data for personal things I want to buy.
 
 ## Quick links
 
-- [Nintendo](https://flatgithub.com/darcien/kapan_diskon?filename=prices%2Fnintendo.json&filters=&sha=a253fcf6a0f8e796a734fc91d4c82690b7bb847e&sort=name%2Casc&stickyColumnName=name&tab=productPrices)
+- [Flat Viewer](https://flatgithub.com/darcien/kapan_diskon)
 
 ## Why
 
@@ -13,4 +13,6 @@ I don't understand why they have wishlist and marketing emails but does not send
 
 ## Inspiration
 
-Heavily inspired by [git scraping article by Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/) and [flat data by Idan Gazit and co.](https://githubnext.com/projects/flat-data)
+Heavily inspired by [git scraping article by Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/) and [flat data by Idan Gazit and co.](https://githubnext.com/projects/flat-data).
+
+Nintendo price API from [`nintendeals` by Fede Calendino](https://github.com/fedecalendino/nintendeals)
