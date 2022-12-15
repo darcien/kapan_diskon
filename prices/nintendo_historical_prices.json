@@ -1,1 +1,18 @@
-{}
+{
+  "70010000000707": [
+    {
+      "price": 59.99,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2022-12-15T12:46:02.184Z"
+    }
+  ],
+  "70070000000661": [
+    {
+      "price": 89.98,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2022-12-15T12:46:02.184Z"
+    }
+  ]
+}
