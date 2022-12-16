@@ -5,6 +5,12 @@
       "priceCurrency": "USD",
       "country": "US",
       "retrievedAt": "2022-12-15T12:46:02.184Z"
+    },
+    {
+      "price": 59.99,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2022-12-16T01:42:01.669Z"
     }
   ],
   "70070000000661": [
@@ -13,6 +19,12 @@
       "priceCurrency": "USD",
       "country": "US",
       "retrievedAt": "2022-12-15T12:46:02.184Z"
+    },
+    {
+      "price": 89.98,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2022-12-16T01:42:01.669Z"
     }
   ]
 }
