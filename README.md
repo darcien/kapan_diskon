@@ -15,4 +15,4 @@ I don't understand why they have wishlist and marketing emails but does not send
 
 Heavily inspired by [git scraping article by Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/) and [flat data by Idan Gazit and co.](https://githubnext.com/projects/flat-data).
 
-Nintendo price API from [`nintendeals` by Fede Calendino](https://github.com/fedecalendino/nintendeals)
+Nintendo price API from [`nintendeals` by Fede Calendino](https://github.com/fedecalendino/nintendeals).

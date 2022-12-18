@@ -15,6 +15,7 @@ const nameByNsuid = {
   "70010000000707": "Xenoblade Chronicles™ 2",
   "70070000000661":
     "Xenoblade Chronicles™ 2 and Xenoblade Chronicles™ 2 Expansion Pass Bundle",
+  "70010000001620": "Luigi’s Mansion™ 3",
 };
 
 const priceApiSchema = z.object({
