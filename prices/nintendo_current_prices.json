@@ -16,5 +16,14 @@
     "priceCurrency": "USD",
     "lowestPrice": 89.98,
     "lowestPriceAt": "2022-12-15T12:33:11.544Z"
+  },
+  {
+    "country": "US",
+    "name": "Luigi’s Mansion™ 3",
+    "nsuid": "70010000001620",
+    "price": 59.99,
+    "priceCurrency": "USD",
+    "lowestPrice": 59.99,
+    "lowestPriceAt": "2022-12-18T15:49:11.771Z"
   }
 ]
