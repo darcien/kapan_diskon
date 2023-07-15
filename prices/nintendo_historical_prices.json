@@ -1271,6 +1271,12 @@
       "priceCurrency": "USD",
       "country": "US",
       "retrievedAt": "2023-07-14T02:05:11.512Z"
+    },
+    {
+      "price": 59.99,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2023-07-15T02:03:37.517Z"
     }
   ],
   "70070000000661": [
@@ -2545,6 +2551,12 @@
       "priceCurrency": "USD",
       "country": "US",
       "retrievedAt": "2023-07-14T02:05:11.512Z"
+    },
+    {
+      "price": 89.98,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2023-07-15T02:03:37.517Z"
     }
   ],
   "70010000001620": [
@@ -3795,6 +3807,12 @@
       "priceCurrency": "USD",
       "country": "US",
       "retrievedAt": "2023-07-14T02:05:11.512Z"
+    },
+    {
+      "price": 59.99,
+      "priceCurrency": "USD",
+      "country": "US",
+      "retrievedAt": "2023-07-15T02:03:37.517Z"
     }
   ]
 }
